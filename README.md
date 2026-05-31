@@ -38,7 +38,7 @@ python -m pip install --upgrade pyinstaller
 python -m PyInstaller --noconfirm --clean --onefile --windowed --name "DiscoDeblo" --icon "logo.ico" --add-data "debloat_headless.ps1;." --add-data "logo.png;." app.py
 ```
 
-After build, copy `dist\DiscoDeblo.exe` into `releases\`.
+
 
 ## Notes
 
