@@ -1,6 +1,6 @@
 # Discord Debloat
 
-Discord Debloat is a Windows cleanup tool for Discord that focuses on safe cache/config cleanup while preserving core install and account data.
+DiscoDeblo is a Windows cleanup tool for Discord that focuses on safe cache/config cleanup to optimize discord and make it feel faster and be faster
 
 ## Project files
 
