@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.spec
+build/
+dist/
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.tmp.*
+*.cache
+
+# PyInstaller and packaging metadata
+*.manifest
+*.ini
+
+# OS artifacts
+Thumbs.db
+.DS_Store
+*.lnk
